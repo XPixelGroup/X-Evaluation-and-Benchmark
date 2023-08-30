@@ -64,7 +64,7 @@ To answer these questions and promote the development of IQA methods, we contrib
 ## <a name="realsr_se"></a>A Framework for Systematic Evaluation of Real-World Super-Resolution
 
 - **Authors**: Wenlong zhang, Xiaohui Li, Xiangyu Chen, Xiaoming Wu, Chao Dong
-- **Links**: :scroll:[`paper`](TODO)
+<!-- - **Links**: :scroll:[`paper`](TODO) -->
 
 # License
 
